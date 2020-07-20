@@ -1,6 +1,6 @@
 # Big Data Analytics
 
-Projects from Analysis of Big Data coursework.
+Projects and Exploratory Data Analysis from Big Data coursework.
 
 Experience includes:
 - Linear Regression
